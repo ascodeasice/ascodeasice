@@ -5,6 +5,7 @@
 **Currently learning**: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) on [The Odin Project](https://www.theodinproject.com/)
 
 ## Recent Projects
+- :black_joker: [Memory Card](https://github.com/ascodeasice/memory-card)
 - :ship: [Battleship](https://github.com/ascodeasice/battleship)
 - :heavy_check_mark: [To-do list](https://github.com/ascodeasice/todo-list)
 - :sun_behind_large_cloud: [Weather App](https://github.com/ascodeasice/weather-app)
