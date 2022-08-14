@@ -5,6 +5,8 @@
 **Currently learning**: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) on [The Odin Project](https://www.theodinproject.com/)
 
 ## Recent Projects
+
+- :mag: [Where is Waldo](https://github.com/ascodeasice/where-is-waldo)
 - :shopping_cart: [Shopping cart](https://github.com/ascodeasice/shopping-cart)
 - :black_joker: [Memory Card](https://github.com/ascodeasice/memory-card)
 - :ship: [Battleship](https://github.com/ascodeasice/battleship)
