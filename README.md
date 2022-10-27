@@ -5,13 +5,11 @@
 **Currently learning**: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) on [The Odin Project](https://www.theodinproject.com/)
 
 ## Recent Projects
+### [Instagram Clone](https://github.com/ascodeasice/insta-clone)
+![Picture of Project](https://github.com/ascodeasice/insta-clone/raw/main/insta-clone/public/results/profilePage.png)
+### [Where is Waldo](https://github.com/ascodeasice/where-is-waldo)
+![Picture of Where is Waldo project](https://github.com/ascodeasice/where-is-waldo/raw/main/where-is-waldo/public/results/levelPage.png)
+### [To-do List](https://github.com/ascodeasice/todo-list)
+![Picture of to-do list project](https://github.com/ascodeasice/todo-list/raw/main/dist/results/result.png)
 
-
-- :bookmark_tabs:[Portfolio Page](https://github.com/ascodeasice/portfolio_page)
-- :framed_picture:[Instagram Clone](https://github.com/ascodeasice/insta-clone)
-- :mag: [Where is Waldo](https://github.com/ascodeasice/where-is-waldo)
-- :shopping_cart: [Shopping cart](https://github.com/ascodeasice/shopping-cart)
-- :black_joker: [Memory Card](https://github.com/ascodeasice/memory-card)
-- :ship: [Battleship](https://github.com/ascodeasice/battleship)
-- :heavy_check_mark: [To-do list](https://github.com/ascodeasice/todo-list)
-- :cake: [Restaurant Page](https://github.com/ascodeasice/restaurant-page)
+For more frontend projects, check [my Portfolio Page](https://github.com/ascodeasice/portfolio_page) 
