@@ -1,4 +1,4 @@
-<h3 align="center">I'm Leo, a 19 years old college student from Taiwan</h3>
+<h3 align="center">I'm Leo, a 20 years old fullstack developer from Taiwan</h3>
 
 **Majoring in** : Computer Science in [NCKU](https://www.ncku.edu.tw/index.php?Lang=en)
 </br>
