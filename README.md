@@ -9,6 +9,8 @@
 
 - 📄 More about me and my experience [https://ascodeasice.github.io/personal-website/](https://ascodeasice.github.io/personal-website/)
 
+- 🔧 Maintainer of [Contribute to This Project](https://github.com/Syknapse/Contribute-To-This-Project) (A good project for first contributors)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
