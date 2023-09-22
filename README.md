@@ -20,5 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ascodeasice&show_icons=true&theme=moltack" alt="ascodeasice" /></p>
 
-<p> <img src="http://github-readme-streak-stats.herokuapp.com?user=ascodeasice&theme=rose&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streaks" width="400px"></p>
+<p> <img src="http://github-readme-streak-stats.herokuapp.com?user=ascodeasice&theme=moltack&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streaks" width="400px"></p>
 <!-- <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ascodeasice&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ascodeasice" /></p> -->
