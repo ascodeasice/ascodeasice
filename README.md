@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ascodeasice@gmail.com**
 
-- 📄 More about me and my experience [https://ascodeasice.github.io/personal-website/](https://ascodeasice.github.io/personal-website/)
+- 📄 My Personal Website [https://ascodeasice.github.io/personal-website/](https://ascodeasice.github.io/personal-website/)
 
 - 🔧 Maintainer of [Contribute to This Project](https://github.com/Syknapse/Contribute-To-This-Project) (A good project for first time contributors)
 
