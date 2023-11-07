@@ -1,24 +1,47 @@
 <h1 align="center">Hi, I'm Leo Wang (ascodeasice)</h1>
 <h3 align="center">A junior fullstack developer in Taiwan</h3>
 
-- 🌱 I’m currently learning **PyTorch and Deep Learning**
+- Currently Leanring: **PyTorch and Deep Learning**
+- College Student in NCKU Taiwan, majoring in CS
+- Maintainer of [Contribute to This Project](https://github.com/Syknapse/Contribute-To-This-Project) (A good project for first time contributors)
 
-- 👨‍💻 My frontend projects are available at [https://ascodeasice.github.io/portfolio_page/](https://ascodeasice.github.io/portfolio_page/)
+<h2 align="left">Dev Skills</h2>
 
-- 📫 How to reach me **ascodeasice@gmail.com**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  title="Mongo DB"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  title="Express.js"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  title="React/React Native"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  title="Node.js"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  title="TypeScript"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  title="JavaScript"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  title="Tailwind CSS"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  title="Firebase"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  title="Docker"/>
+</div>
 
-- 📄 My Personal Website [https://ascodeasice.github.io/personal-website/](https://ascodeasice.github.io/personal-website/)
+<h2 align="left">GitHub Stats</h2>
 
-- 🔧 Maintainer of [Contribute to This Project](https://github.com/Syknapse/Contribute-To-This-Project) (A good project for first time contributors)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ascodeasice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ascodeasice&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+</div>
 
+<h2 align="left">Contact</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ascodeasice&show_icons=true&theme=moltack" alt="ascodeasice" /></p>
-
-<p> <img src="http://github-readme-streak-stats.herokuapp.com?user=ascodeasice&theme=moltack&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streaks" width="400px"></p>
-<!-- <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ascodeasice&theme=garden&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ascodeasice" /></p> -->
+<div align="left">
+  <a href="mailto:ascodeasice@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://ascodeasice.github.io/personal-website/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PERSONAL%20WEBSITE&logo=codepen&label=&color=rgb(129,0,0)&logoColor=&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+</div>
